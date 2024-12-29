@@ -1,0 +1,5 @@
+requests
+scikit-learn==1.5.2
+nltk
+bs4
+lxml
